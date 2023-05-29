@@ -1,4 +1,4 @@
-package kegiatan.pekan5;
+package latihan1M5;
 
 class Node {
     int data;
